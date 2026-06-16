@@ -1,0 +1,4142 @@
+[
+    {
+        "uid": "74442a54-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "002 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 28,
+        "site_id": 1,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "74442a55-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "01 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 14,
+        "site_id": 2,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "74442a56-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "01 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 3,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "74442a58-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "02 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 4,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "74442a59-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "03 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 5,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "74442a5a-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "04 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 6,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "74442a62-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "101 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 32,
+        "site_id": 7,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "74442a63-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "102 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 28,
+        "site_id": 8,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "74442a64-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "102 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 36,
+        "site_id": 9,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "74442a65-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "103 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 10,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "74442a66-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "103 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 120,
+        "site_id": 11,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "74442a68-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "104 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 90,
+        "site_id": 12,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "74442a69-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "106 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 13,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "74442a6a-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "107 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 14,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "74442a6b-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "107 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 25,
+        "site_id": 15,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "74442a6c-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "108 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 52,
+        "site_id": 16,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "74442a6e-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "109 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 63,
+        "site_id": 17,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "74442a70-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "110 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 69,
+        "site_id": 18,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "74442a74-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "113 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 19,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "74442a75-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "116",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 20,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "74442a76-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "117",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 21,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "74442a7a-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "129",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 17,
+        "site_id": 22,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "74442a7b-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "135",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 100,
+        "site_id": 23,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "74442a7c-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "141",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 24,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "74442a7d-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "142",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 80,
+        "site_id": 25,
+        "parsed_type": "Мультимедийная аудитория (компьютерный класс)",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "74442a7e-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "143",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 26,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "74442a7f-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "144",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 19,
+        "site_id": 27,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "74442a80-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "145",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 28,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "74442a81-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "147",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 29,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "74442a82-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "152",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 25,
+        "site_id": 30,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "74442a83-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "155",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 120,
+        "site_id": 31,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "74442a84-5c3d-11e9-80d9-14dae9fa298c",
+        "name": "156",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 150,
+        "site_id": 32,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4c98-5c49-11e9-80d9-14dae9fa298c",
+        "name": "156а",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 33,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4c99-5c49-11e9-80d9-14dae9fa298c",
+        "name": "201 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 34,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4c9a-5c49-11e9-80d9-14dae9fa298c",
+        "name": "202 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 52,
+        "site_id": 35,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4c9b-5c49-11e9-80d9-14dae9fa298c",
+        "name": "204 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 12,
+        "site_id": 36,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "7e8c4c9c-5c49-11e9-80d9-14dae9fa298c",
+        "name": "206 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 37,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "7e8c4c9d-5c49-11e9-80d9-14dae9fa298c",
+        "name": "206 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 63,
+        "site_id": 38,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4c9e-5c49-11e9-80d9-14dae9fa298c",
+        "name": "207 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 39,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4c9f-5c49-11e9-80d9-14dae9fa298c",
+        "name": "207а М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 40,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4ca0-5c49-11e9-80d9-14dae9fa298c",
+        "name": "208 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 32,
+        "site_id": 41,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "7e8c4ca1-5c49-11e9-80d9-14dae9fa298c",
+        "name": "208 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 54,
+        "site_id": 42,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4ca2-5c49-11e9-80d9-14dae9fa298c",
+        "name": "209 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 36,
+        "site_id": 43,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4ca3-5c49-11e9-80d9-14dae9fa298c",
+        "name": "210 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 44,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4ca4-5c49-11e9-80d9-14dae9fa298c",
+        "name": "210 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 45,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4ca5-5c49-11e9-80d9-14dae9fa298c",
+        "name": "211 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 40,
+        "site_id": 46,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4ca6-5c49-11e9-80d9-14dae9fa298c",
+        "name": "212 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 47,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4ca7-5c49-11e9-80d9-14dae9fa298c",
+        "name": "212 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 48,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "7e8c4ca8-5c49-11e9-80d9-14dae9fa298c",
+        "name": "213 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 49,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4ca9-5c49-11e9-80d9-14dae9fa298c",
+        "name": "213 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 45,
+        "site_id": 50,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4caa-5c49-11e9-80d9-14dae9fa298c",
+        "name": "214 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 51,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4cab-5c49-11e9-80d9-14dae9fa298c",
+        "name": "214 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 52,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cac-5c49-11e9-80d9-14dae9fa298c",
+        "name": "219 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 56,
+        "site_id": 53,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cad-5c49-11e9-80d9-14dae9fa298c",
+        "name": "220 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 72,
+        "site_id": 54,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4cae-5c49-11e9-80d9-14dae9fa298c",
+        "name": "220 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 68,
+        "site_id": 55,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4caf-5c49-11e9-80d9-14dae9fa298c",
+        "name": "222 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 17,
+        "site_id": 56,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cb0-5c49-11e9-80d9-14dae9fa298c",
+        "name": "226",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 46,
+        "site_id": 57,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cb2-5c49-11e9-80d9-14dae9fa298c",
+        "name": "230",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 58,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cb3-5c49-11e9-80d9-14dae9fa298c",
+        "name": "234",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 59,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cb4-5c49-11e9-80d9-14dae9fa298c",
+        "name": "237",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 29,
+        "site_id": 60,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cb5-5c49-11e9-80d9-14dae9fa298c",
+        "name": "239",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 61,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cb6-5c49-11e9-80d9-14dae9fa298c",
+        "name": "243",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 62,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cb7-5c49-11e9-80d9-14dae9fa298c",
+        "name": "244",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 17,
+        "site_id": 63,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cb8-5c49-11e9-80d9-14dae9fa298c",
+        "name": "250",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 19,
+        "site_id": 64,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cb9-5c49-11e9-80d9-14dae9fa298c",
+        "name": "254",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 65,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cba-5c49-11e9-80d9-14dae9fa298c",
+        "name": "256",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 40,
+        "site_id": 66,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cbb-5c49-11e9-80d9-14dae9fa298c",
+        "name": "261/10",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 67,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cbc-5c49-11e9-80d9-14dae9fa298c",
+        "name": "261/17",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 68,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cbd-5c49-11e9-80d9-14dae9fa298c",
+        "name": "261/6",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 69,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cbe-5c49-11e9-80d9-14dae9fa298c",
+        "name": "261/7",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 70,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cbf-5c49-11e9-80d9-14dae9fa298c",
+        "name": "261/8",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 71,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cc0-5c49-11e9-80d9-14dae9fa298c",
+        "name": "266",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 150,
+        "site_id": 72,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cc1-5c49-11e9-80d9-14dae9fa298c",
+        "name": "301а",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 25,
+        "site_id": 73,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cc2-5c49-11e9-80d9-14dae9fa298c",
+        "name": "302 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 32,
+        "site_id": 74,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cc3-5c49-11e9-80d9-14dae9fa298c",
+        "name": "466/1",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 36,
+        "site_id": 75,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cc4-5c49-11e9-80d9-14dae9fa298c",
+        "name": "304",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 76,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cc5-5c49-11e9-80d9-14dae9fa298c",
+        "name": "304 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 52,
+        "site_id": 77,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cc6-5c49-11e9-80d9-14dae9fa298c",
+        "name": "306",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 78,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cc7-5c49-11e9-80d9-14dae9fa298c",
+        "name": "306 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 60,
+        "site_id": 79,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4cc8-5c49-11e9-80d9-14dae9fa298c",
+        "name": "306 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 92,
+        "site_id": 80,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cc9-5c49-11e9-80d9-14dae9fa298c",
+        "name": "307 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 96,
+        "site_id": 81,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cca-5c49-11e9-80d9-14dae9fa298c",
+        "name": "308 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 82,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4ccb-5c49-11e9-80d9-14dae9fa298c",
+        "name": "308д",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 83,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4ccc-5c49-11e9-80d9-14dae9fa298c",
+        "name": "308т",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 84,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4ccd-5c49-11e9-80d9-14dae9fa298c",
+        "name": "309 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 85,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4cce-5c49-11e9-80d9-14dae9fa298c",
+        "name": "310 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 86,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "7e8c4ccf-5c49-11e9-80d9-14dae9fa298c",
+        "name": "310 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 87,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cd0-5c49-11e9-80d9-14dae9fa298c",
+        "name": "311",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 88,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cd1-5c49-11e9-80d9-14dae9fa298c",
+        "name": "311 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 60,
+        "site_id": 89,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cd2-5c49-11e9-80d9-14dae9fa298c",
+        "name": "312 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 96,
+        "site_id": 90,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cd3-5c49-11e9-80d9-14dae9fa298c",
+        "name": "313 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 51,
+        "site_id": 91,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cd4-5c49-11e9-80d9-14dae9fa298c",
+        "name": "315",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 27,
+        "site_id": 92,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cd5-5c49-11e9-80d9-14dae9fa298c",
+        "name": "315 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 27,
+        "site_id": 93,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cd6-5c49-11e9-80d9-14dae9fa298c",
+        "name": "316 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 9,
+        "site_id": 94,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cd7-5c49-11e9-80d9-14dae9fa298c",
+        "name": "317",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 22,
+        "site_id": 95,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cd8-5c49-11e9-80d9-14dae9fa298c",
+        "name": "317 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 96,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cd9-5c49-11e9-80d9-14dae9fa298c",
+        "name": "303",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 97,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cda-5c49-11e9-80d9-14dae9fa298c",
+        "name": "318 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 9,
+        "site_id": 98,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cdb-5c49-11e9-80d9-14dae9fa298c",
+        "name": "319 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 99,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cdc-5c49-11e9-80d9-14dae9fa298c",
+        "name": "320 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 100,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4cdd-5c49-11e9-80d9-14dae9fa298c",
+        "name": "105",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 48,
+        "site_id": 101,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cde-5c49-11e9-80d9-14dae9fa298c",
+        "name": "324 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 14,
+        "site_id": 102,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cdf-5c49-11e9-80d9-14dae9fa298c",
+        "name": "304 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 103,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4ce0-5c49-11e9-80d9-14dae9fa298c",
+        "name": "371",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 52,
+        "site_id": 104,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4ce1-5c49-11e9-80d9-14dae9fa298c",
+        "name": "334",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 46,
+        "site_id": 105,
+        "parsed_type": "Мультимедийная аудитория (компьютерный класс)",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4ce2-5c49-11e9-80d9-14dae9fa298c",
+        "name": "337",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 106,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4ce3-5c49-11e9-80d9-14dae9fa298c",
+        "name": "338",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 107,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4ce4-5c49-11e9-80d9-14dae9fa298c",
+        "name": "339",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 108,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4ce5-5c49-11e9-80d9-14dae9fa298c",
+        "name": "340",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 109,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4ce6-5c49-11e9-80d9-14dae9fa298c",
+        "name": "341в",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 110,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4ce7-5c49-11e9-80d9-14dae9fa298c",
+        "name": "342",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 100,
+        "site_id": 111,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cea-5c49-11e9-80d9-14dae9fa298c",
+        "name": "349",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 12,
+        "site_id": 114,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4ceb-5c49-11e9-80d9-14dae9fa298c",
+        "name": "351/1",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 115,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cec-5c49-11e9-80d9-14dae9fa298c",
+        "name": "351/2",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 116,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4ced-5c49-11e9-80d9-14dae9fa298c",
+        "name": "353",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 60,
+        "site_id": 117,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cf0-5c49-11e9-80d9-14dae9fa298c",
+        "name": "379а",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 118,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cf1-5c49-11e9-80d9-14dae9fa298c",
+        "name": "381",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 100,
+        "site_id": 119,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cf2-5c49-11e9-80d9-14dae9fa298c",
+        "name": "382",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 100,
+        "site_id": 120,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cf3-5c49-11e9-80d9-14dae9fa298c",
+        "name": "384",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 100,
+        "site_id": 121,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cf4-5c49-11e9-80d9-14dae9fa298c",
+        "name": "466/2",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 22,
+        "site_id": 122,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cf6-5c49-11e9-80d9-14dae9fa298c",
+        "name": "401",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 22,
+        "site_id": 123,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cf7-5c49-11e9-80d9-14dae9fa298c",
+        "name": "401 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 54,
+        "site_id": 124,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cf8-5c49-11e9-80d9-14dae9fa298c",
+        "name": "402 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 54,
+        "site_id": 125,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cf9-5c49-11e9-80d9-14dae9fa298c",
+        "name": "403",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 126,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cfa-5c49-11e9-80d9-14dae9fa298c",
+        "name": "404 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 70,
+        "site_id": 127,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cfb-5c49-11e9-80d9-14dae9fa298c",
+        "name": "405 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 126,
+        "site_id": 128,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cfc-5c49-11e9-80d9-14dae9fa298c",
+        "name": "408 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 129,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4cfd-5c49-11e9-80d9-14dae9fa298c",
+        "name": "408 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 130,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4cfe-5c49-11e9-80d9-14dae9fa298c",
+        "name": "409",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 36,
+        "site_id": 131,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4cff-5c49-11e9-80d9-14dae9fa298c",
+        "name": "409 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 36,
+        "site_id": 132,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4d00-5c49-11e9-80d9-14dae9fa298c",
+        "name": "409 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 36,
+        "site_id": 133,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d01-5c49-11e9-80d9-14dae9fa298c",
+        "name": "410",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 25,
+        "site_id": 134,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d04-5c49-11e9-80d9-14dae9fa298c",
+        "name": "412 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 43,
+        "site_id": 135,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d05-5c49-11e9-80d9-14dae9fa298c",
+        "name": "413 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 48,
+        "site_id": 136,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d06-5c49-11e9-80d9-14dae9fa298c",
+        "name": "414 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 48,
+        "site_id": 137,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d07-5c49-11e9-80d9-14dae9fa298c",
+        "name": "415 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 48,
+        "site_id": 138,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d08-5c49-11e9-80d9-14dae9fa298c",
+        "name": "416",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 40,
+        "site_id": 139,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d09-5c49-11e9-80d9-14dae9fa298c",
+        "name": "418",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 140,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d0a-5c49-11e9-80d9-14dae9fa298c",
+        "name": "419 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 14,
+        "site_id": 141,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d0b-5c49-11e9-80d9-14dae9fa298c",
+        "name": "420 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 32,
+        "site_id": 142,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "7e8c4d0c-5c49-11e9-80d9-14dae9fa298c",
+        "name": "424",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 100,
+        "site_id": 143,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d0d-5c49-11e9-80d9-14dae9fa298c",
+        "name": "425",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 60,
+        "site_id": 144,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d0e-5c49-11e9-80d9-14dae9fa298c",
+        "name": "426",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 145,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d0f-5c49-11e9-80d9-14dae9fa298c",
+        "name": "427",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 146,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d10-5c49-11e9-80d9-14dae9fa298c",
+        "name": "431",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 147,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d11-5c49-11e9-80d9-14dae9fa298c",
+        "name": "440",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 148,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d12-5c49-11e9-80d9-14dae9fa298c",
+        "name": "444",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 149,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d13-5c49-11e9-80d9-14dae9fa298c",
+        "name": "446",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 26,
+        "site_id": 150,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d14-5c49-11e9-80d9-14dae9fa298c",
+        "name": "447",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 151,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d16-5c49-11e9-80d9-14dae9fa298c",
+        "name": "452",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 152,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d17-5c49-11e9-80d9-14dae9fa298c",
+        "name": "460",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 36,
+        "site_id": 153,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d18-5c49-11e9-80d9-14dae9fa298c",
+        "name": "461",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 44,
+        "site_id": 154,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d19-5c49-11e9-80d9-14dae9fa298c",
+        "name": "463",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 155,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d1a-5c49-11e9-80d9-14dae9fa298c",
+        "name": "464",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 156,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d1c-5c49-11e9-80d9-14dae9fa298c",
+        "name": "470",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 40,
+        "site_id": 157,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d1d-5c49-11e9-80d9-14dae9fa298c",
+        "name": "471",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 36,
+        "site_id": 158,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d1e-5c49-11e9-80d9-14dae9fa298c",
+        "name": "472",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 35,
+        "site_id": 159,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d1f-5c49-11e9-80d9-14dae9fa298c",
+        "name": "473",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 39,
+        "site_id": 160,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d20-5c49-11e9-80d9-14dae9fa298c",
+        "name": "474",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 161,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d21-5c49-11e9-80d9-14dae9fa298c",
+        "name": "481",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 162,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7e8c4d25-5c49-11e9-80d9-14dae9fa298c",
+        "name": "Зал бокса",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 163,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d26-5c49-11e9-80d9-14dae9fa298c",
+        "name": "СК",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 164,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d27-5c49-11e9-80d9-14dae9fa298c",
+        "name": "Зал настольного тенниса",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 165,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d28-5c49-11e9-80d9-14dae9fa298c",
+        "name": "Зал ритмической гимнастики",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 166,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d29-5c49-11e9-80d9-14dae9fa298c",
+        "name": "Игровой зал",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 167,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d2b-5c49-11e9-80d9-14dae9fa298c",
+        "name": "Кабинет подводного плавания",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 168,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d2e-5c49-11e9-80d9-14dae9fa298c",
+        "name": "Маш. зал К К",
+        "buildingUid": "74442a47-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 10,
+        "site_id": 169,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №4: ул. Калязинская"
+    },
+    {
+        "uid": "7e8c4d2f-5c49-11e9-80d9-14dae9fa298c",
+        "name": "Тренажерный зал",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 171,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "7e8c4d30-5c49-11e9-80d9-14dae9fa298c",
+        "name": "Тренажерный зал",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 171,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "47881659-a88e-11e9-8103-0025907f3810",
+        "name": "001",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 14,
+        "site_id": 172,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "fe71153a-a93a-11e9-8103-0025907f3810",
+        "name": "401 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 173,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "3edee7f4-a947-11e9-8103-0025907f3810",
+        "name": "305 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 9,
+        "site_id": 174,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "94870ce1-ac70-11e9-8103-0025907f3810",
+        "name": "352",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 60,
+        "site_id": 175,
+        "parsed_type": "Мультимедийная аудитория (компьютерный класс)",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "94870ce3-ac70-11e9-8103-0025907f3810",
+        "name": "103 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 25,
+        "site_id": 176,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "94870ce5-ac70-11e9-8103-0025907f3810",
+        "name": "402 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 177,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "94870ce6-ac70-11e9-8103-0025907f3810",
+        "name": "406 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 178,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "94870ce7-ac70-11e9-8103-0025907f3810",
+        "name": "407 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 179,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "94870ce8-ac70-11e9-8103-0025907f3810",
+        "name": "405 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 50,
+        "site_id": 180,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "94870cea-ac70-11e9-8103-0025907f3810",
+        "name": "412 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 181,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "94870ceb-ac70-11e9-8103-0025907f3810",
+        "name": "413 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 48,
+        "site_id": 182,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "94870cec-ac70-11e9-8103-0025907f3810",
+        "name": "414 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 48,
+        "site_id": 183,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "94870ced-ac70-11e9-8103-0025907f3810",
+        "name": "415 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 48,
+        "site_id": 184,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "94870cef-ac70-11e9-8103-0025907f3810",
+        "name": "416 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 12,
+        "site_id": 185,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "94870cf0-ac70-11e9-8103-0025907f3810",
+        "name": "418 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 42,
+        "site_id": 186,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "94870cf1-ac70-11e9-8103-0025907f3810",
+        "name": "419 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 33,
+        "site_id": 187,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "94870cf2-ac70-11e9-8103-0025907f3810",
+        "name": "420 А3",
+        "buildingUid": "06de6a5c-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 188,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №3 БГАРФ"
+    },
+    {
+        "uid": "94870cf5-ac70-11e9-8103-0025907f3810",
+        "name": "411 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 63,
+        "site_id": 189,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "94870cf6-ac70-11e9-8103-0025907f3810",
+        "name": "410 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 63,
+        "site_id": 190,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "94870cf8-ac70-11e9-8103-0025907f3810",
+        "name": "466/3",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 25,
+        "site_id": 191,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "94870cf9-ac70-11e9-8103-0025907f3810",
+        "name": "325",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 192,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "94870cfb-ac70-11e9-8103-0025907f3810",
+        "name": "122а",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 4,
+        "site_id": 193,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "bcfffe3d-ac75-11e9-8103-0025907f3810",
+        "name": "120 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 26,
+        "site_id": 194,
+        "parsed_type": "Кабинет",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "2a106ac5-ae0a-11e9-8103-0025907f3810",
+        "name": "005",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 195,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "3435198f-ae0a-11e9-8103-0025907f3810",
+        "name": "006",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 196,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "b30fb56d-aebc-11e9-8103-0025907f3810",
+        "name": "116 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 10,
+        "site_id": 197,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "0e27b6e6-aec2-11e9-8103-0025907f3810",
+        "name": "101 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 198,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "a39ccb25-af76-11e9-8103-0025907f3810",
+        "name": "351/3",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 199,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "c8b6219b-af76-11e9-8103-0025907f3810",
+        "name": "432",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 12,
+        "site_id": 200,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "d3060169-af78-11e9-8103-0025907f3810",
+        "name": "410 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 25,
+        "site_id": 201,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "31d859e0-af7c-11e9-8103-0025907f3810",
+        "name": "403 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 202,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "9e9efd76-af7d-11e9-8103-0025907f3810",
+        "name": "112 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 203,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "2cc47967-af7e-11e9-8103-0025907f3810",
+        "name": "406 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 32,
+        "site_id": 204,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "122ee9eb-af7f-11e9-8103-0025907f3810",
+        "name": "417 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 17,
+        "site_id": 205,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "720230b5-af7f-11e9-8103-0025907f3810",
+        "name": "139",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 206,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "199fd32b-af80-11e9-8103-0025907f3810",
+        "name": "479",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 39,
+        "site_id": 207,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "ca582c54-af80-11e9-8103-0025907f3810",
+        "name": "432 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 17,
+        "site_id": 208,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "69dbb090-af81-11e9-8103-0025907f3810",
+        "name": "110 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 26,
+        "site_id": 209,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "f0a4b632-af81-11e9-8103-0025907f3810",
+        "name": "1а Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 12,
+        "site_id": 210,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "447877dd-af82-11e9-8103-0025907f3810",
+        "name": "011",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 211,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "4ce64d1a-af82-11e9-8103-0025907f3810",
+        "name": "012",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 212,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "72ca1a21-af83-11e9-8103-0025907f3810",
+        "name": "416 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 213,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "d7e76e53-af84-11e9-8103-0025907f3810",
+        "name": "412 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 26,
+        "site_id": 214,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "77e8a448-af8a-11e9-8103-0025907f3810",
+        "name": "414 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 17,
+        "site_id": 215,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "8995d6fc-af8b-11e9-8103-0025907f3810",
+        "name": "406 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 216,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "25e7a3e1-af8e-11e9-8103-0025907f3810",
+        "name": "439 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 218,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "37468e32-af8e-11e9-8103-0025907f3810",
+        "name": "441 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 40,
+        "site_id": 219,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "3608490c-af8f-11e9-8103-0025907f3810",
+        "name": "307 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 220,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "66de1ef4-af8f-11e9-8103-0025907f3810",
+        "name": "117в Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 12,
+        "site_id": 221,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "8833d273-af8f-11e9-8103-0025907f3810",
+        "name": "313 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 222,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "92d1d07f-af90-11e9-8103-0025907f3810",
+        "name": "407 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 223,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "5babdcb2-b1d9-11e9-8103-0025907f3810",
+        "name": "113 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 225,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "33fd3cda-b2ae-11e9-8103-0025907f3810",
+        "name": "153",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 226,
+        "parsed_type": "Библиотека",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "0dbe320c-b2b4-11e9-8103-0025907f3810",
+        "name": "013",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 17,
+        "site_id": 227,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "e3d6d5fa-baac-11e9-8105-0025907f3810",
+        "name": "401 Г",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 228,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "f9a3585e-bcdf-11e9-8105-0025907f3810",
+        "name": "143а",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 25,
+        "site_id": 229,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "0300dd08-c95e-11e9-8107-0025907f3810",
+        "name": "Клуб БГАРФ",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 230,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "51005676-9aa5-11ea-93f7-97373a1a3eaa",
+        "name": "157",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 35,
+        "site_id": 231,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "653e8b52-e1f3-11ea-93f7-97373a1a3eaa",
+        "name": "152 а",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 232,
+        "parsed_type": "Библиотека",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "7845ecaf-71be-11eb-93fb-ac4929b9d54a",
+        "name": "261/16",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 233,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "b95c8eaa-d8b1-11eb-9400-9f057c675b7c",
+        "name": "117а Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 234,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "b95c8eb2-d8b1-11eb-9400-9f057c675b7c",
+        "name": "018",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 23,
+        "site_id": 235,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "916c900c-1f75-11ec-9400-9f057c675b7c",
+        "name": "387",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 236,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "fd22e805-2fc9-11ec-9401-ff9a9f69855c",
+        "name": "326",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 17,
+        "site_id": 237,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "f46ead06-37f5-11ec-9401-ff9a9f69855c",
+        "name": "408 Г",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 6,
+        "site_id": 238,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "f46ead08-37f5-11ec-9401-ff9a9f69855c",
+        "name": "386",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 4,
+        "site_id": 239,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "a07d4115-7a8d-11ec-9403-98b296443a1c",
+        "name": "249 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 240,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "de38f52f-9543-11ec-9403-98b296443a1c",
+        "name": "275",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 50,
+        "site_id": 241,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "f83fafa9-dfe7-11ec-9403-98b296443a1c",
+        "name": "301 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 242,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "f83fafab-dfe7-11ec-9403-98b296443a1c",
+        "name": "102 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 243,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "f83fafac-dfe7-11ec-9403-98b296443a1c",
+        "name": "109 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 244,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "736081d4-e7cd-11ec-9403-98b296443a1c",
+        "name": "303 Г",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 32,
+        "site_id": 245,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "736081d5-e7cd-11ec-9403-98b296443a1c",
+        "name": "306 Г",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 32,
+        "site_id": 246,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "736081d6-e7cd-11ec-9403-98b296443a1c",
+        "name": "311 Г",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 36,
+        "site_id": 247,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "0a6ef56e-e7f9-11ec-9403-98b296443a1c",
+        "name": "Центр Предпринимательства",
+        "buildingUid": null,
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 418,
+        "parsed_type": "Неизвестно",
+        "building_name": "Неизвестно"
+    },
+    {
+        "uid": "5dcb6e26-e89b-11ec-9403-98b296443a1c",
+        "name": "Базовая кафедра",
+        "buildingUid": null,
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 414,
+        "parsed_type": "Неизвестно",
+        "building_name": "Неизвестно"
+    },
+    {
+        "uid": "6bdab366-ebc4-11ec-9403-98b296443a1c",
+        "name": "312 Г",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 248,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "29e12f7f-f300-11ec-9403-98b296443a1c",
+        "name": "440 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 249,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "bf31a331-f6bd-11ec-9403-98b296443a1c",
+        "name": "260 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 250,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "bf31a332-f6bd-11ec-9403-98b296443a1c",
+        "name": "438 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 251,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "6761f9f5-64c1-11ed-940a-855c84a393a1",
+        "name": "308 Г",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 12,
+        "site_id": 252,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "d6aff4c6-670f-11ed-940a-855c84a393a1",
+        "name": "101 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 253,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "599ff7bf-6fb6-11ed-940a-855c84a393a1",
+        "name": "105 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 254,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "deb4c501-7158-11ed-940a-855c84a393a1",
+        "name": "363",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 255,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "deb4c502-7158-11ed-940a-855c84a393a1",
+        "name": "361",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 256,
+        "parsed_type": "Лаборатория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "6b3c5980-779c-11ed-940a-855c84a393a1",
+        "name": "401 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 45,
+        "site_id": 257,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "93540e22-7ac3-11ed-940a-855c84a393a1",
+        "name": "327 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 25,
+        "site_id": 258,
+        "parsed_type": "Кабинет",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "160ef2ec-7c5b-11ed-940a-855c84a393a1",
+        "name": "309 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 8,
+        "site_id": 259,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "160ef2ed-7c5b-11ed-940a-855c84a393a1",
+        "name": "303 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 8,
+        "site_id": 260,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "160ef2ee-7c5b-11ed-940a-855c84a393a1",
+        "name": "97 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 261,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "8d008e23-a1e2-11ed-940c-f38648c30a4e",
+        "name": "302 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 262,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "8d008e24-a1e2-11ed-940c-f38648c30a4e",
+        "name": "429 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 263,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "8d008e25-a1e2-11ed-940c-f38648c30a4e",
+        "name": "116 А4",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 264,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "9ae3d038-b754-11ed-940d-8543c8917105",
+        "name": "339 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 265,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "982dcde3-bbd3-11ed-940d-8543c8917105",
+        "name": "245 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 60,
+        "site_id": 266,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "9cce39d4-d387-11ed-940d-8543c8917105",
+        "name": "336 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 267,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "dd93b9c8-1976-11ee-9411-b2b455853497",
+        "name": "526 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 25,
+        "site_id": 268,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "bc1f359e-2576-11ee-9411-b2b455853497",
+        "name": "202 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 73,
+        "site_id": 269,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "bc1f359f-2576-11ee-9411-b2b455853497",
+        "name": "201 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 72,
+        "site_id": 270,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "bc1f35a0-2576-11ee-9411-b2b455853497",
+        "name": "215 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 45,
+        "site_id": 271,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "957824f5-466c-11ee-9412-c1be72fdac38",
+        "name": "112 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 272,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "957824f6-466c-11ee-9412-c1be72fdac38",
+        "name": "423 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 273,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "957824f7-466c-11ee-9412-c1be72fdac38",
+        "name": "421 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 274,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "957824f8-466c-11ee-9412-c1be72fdac38",
+        "name": "424 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 275,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "957824f9-466c-11ee-9412-c1be72fdac38",
+        "name": "418 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 276,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "957824fa-466c-11ee-9412-c1be72fdac38",
+        "name": "221 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 277,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "957824fb-466c-11ee-9412-c1be72fdac38",
+        "name": "319 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 278,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "957824fc-466c-11ee-9412-c1be72fdac38",
+        "name": "321 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 279,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "957824fd-466c-11ee-9412-c1be72fdac38",
+        "name": "318 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 280,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "957824fe-466c-11ee-9412-c1be72fdac38",
+        "name": "222 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 281,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "957824ff-466c-11ee-9412-c1be72fdac38",
+        "name": "Основной зал 1",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 100,
+        "site_id": 282,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "95782500-466c-11ee-9412-c1be72fdac38",
+        "name": "Физкультурно-оздоровительный комплекс 1",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 100,
+        "site_id": 283,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "95782501-466c-11ee-9412-c1be72fdac38",
+        "name": "405 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 284,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "95782502-466c-11ee-9412-c1be72fdac38",
+        "name": "225 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 285,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74e1-4766-11ee-9412-c1be72fdac38",
+        "name": "206 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 22,
+        "site_id": 286,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74e2-4766-11ee-9412-c1be72fdac38",
+        "name": "223 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 287,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74e3-4766-11ee-9412-c1be72fdac38",
+        "name": "521 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 288,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74e4-4766-11ee-9412-c1be72fdac38",
+        "name": "220 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 289,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74e5-4766-11ee-9412-c1be72fdac38",
+        "name": "420 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 290,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "863a74e6-4766-11ee-9412-c1be72fdac38",
+        "name": "106 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 291,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "863a74e7-4766-11ee-9412-c1be72fdac38",
+        "name": "325 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 292,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74e8-4766-11ee-9412-c1be72fdac38",
+        "name": "331 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 293,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74e9-4766-11ee-9412-c1be72fdac38",
+        "name": "418 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 294,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "863a74ea-4766-11ee-9412-c1be72fdac38",
+        "name": "425 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 295,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "863a74eb-4766-11ee-9412-c1be72fdac38",
+        "name": "331 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 74,
+        "site_id": 296,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "863a74ec-4766-11ee-9412-c1be72fdac38",
+        "name": "340 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 297,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "863a74ed-4766-11ee-9412-c1be72fdac38",
+        "name": "114 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 91,
+        "site_id": 298,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74ee-4766-11ee-9412-c1be72fdac38",
+        "name": "103 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 299,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74ef-4766-11ee-9412-c1be72fdac38",
+        "name": "422 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 300,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "863a74f0-4766-11ee-9412-c1be72fdac38",
+        "name": "301 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 301,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74f1-4766-11ee-9412-c1be72fdac38",
+        "name": "246 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 302,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "863a74f2-4766-11ee-9412-c1be72fdac38",
+        "name": "330 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 303,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "863a74f3-4766-11ee-9412-c1be72fdac38",
+        "name": "303 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 304,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74f4-4766-11ee-9412-c1be72fdac38",
+        "name": "414 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 305,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "863a74f5-4766-11ee-9412-c1be72fdac38",
+        "name": "237 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 306,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "863a74f6-4766-11ee-9412-c1be72fdac38",
+        "name": "104 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 307,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74f7-4766-11ee-9412-c1be72fdac38",
+        "name": "222 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 308,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "863a74f8-4766-11ee-9412-c1be72fdac38",
+        "name": "301 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 301,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a74f9-4766-11ee-9412-c1be72fdac38",
+        "name": "523 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 310,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a7503-4766-11ee-9412-c1be72fdac38",
+        "name": "426 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 311,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "863a7504-4766-11ee-9412-c1be72fdac38",
+        "name": "109 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 312,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "71dfa729-4c84-11ee-9412-c1be72fdac38",
+        "name": "102 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 313,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "71dfa733-4c84-11ee-9412-c1be72fdac38",
+        "name": "1 А5",
+        "buildingUid": "ac71c315-b90d-11ee-9414-8f2056fca04f",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 330,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №5 БГАРФ"
+    },
+    {
+        "uid": "71dfa734-4c84-11ee-9412-c1be72fdac38",
+        "name": "5 А5",
+        "buildingUid": "ac71c315-b90d-11ee-9414-8f2056fca04f",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 315,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №5 БГАРФ"
+    },
+    {
+        "uid": "71dfa735-4c84-11ee-9412-c1be72fdac38",
+        "name": "43 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 316,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "71dfa736-4c84-11ee-9412-c1be72fdac38",
+        "name": "60 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 317,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "71dfa737-4c84-11ee-9412-c1be72fdac38",
+        "name": "58 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 318,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "71dfa738-4c84-11ee-9412-c1be72fdac38",
+        "name": "326 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 319,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "71dfa739-4c84-11ee-9412-c1be72fdac38",
+        "name": "332 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 320,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "71dfa73a-4c84-11ee-9412-c1be72fdac38",
+        "name": "205 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 321,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "71dfa73b-4c84-11ee-9412-c1be72fdac38",
+        "name": "115 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 322,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "71dfa73c-4c84-11ee-9412-c1be72fdac38",
+        "name": "409 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 323,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "71dfa73d-4c84-11ee-9412-c1be72fdac38",
+        "name": "3 А5",
+        "buildingUid": "ac71c315-b90d-11ee-9414-8f2056fca04f",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 324,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №5 БГАРФ"
+    },
+    {
+        "uid": "71dfa73e-4c84-11ee-9412-c1be72fdac38",
+        "name": "54 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 325,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "71dfa73f-4c84-11ee-9412-c1be72fdac38",
+        "name": "20 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 326,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "71dfa740-4c84-11ee-9412-c1be72fdac38",
+        "name": "22 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 327,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "71dfa741-4c84-11ee-9412-c1be72fdac38",
+        "name": "308 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 328,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "71dfa742-4c84-11ee-9412-c1be72fdac38",
+        "name": "14 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 329,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "71dfa743-4c84-11ee-9412-c1be72fdac38",
+        "name": "2 А5",
+        "buildingUid": "ac71c315-b90d-11ee-9414-8f2056fca04f",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 314,
+        "parsed_type": "Мультимедийная аудитория",
+        "building_name": "Учебный корпус №5 БГАРФ"
+    },
+    {
+        "uid": "71dfa744-4c84-11ee-9412-c1be72fdac38",
+        "name": "406 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 331,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "6f6cae5b-4d4e-11ee-9412-c1be72fdac38",
+        "name": "407 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 332,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "6f6cae5c-4d4e-11ee-9412-c1be72fdac38",
+        "name": "408 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 333,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "6f6cae5d-4d4e-11ee-9412-c1be72fdac38",
+        "name": "403 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 334,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "6f6cae5e-4d4e-11ee-9412-c1be72fdac38",
+        "name": "318 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 335,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "6f6cae5f-4d4e-11ee-9412-c1be72fdac38",
+        "name": "317 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 336,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "6f6cae60-4d4e-11ee-9412-c1be72fdac38",
+        "name": "409 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 337,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "6f6cae61-4d4e-11ee-9412-c1be72fdac38",
+        "name": "405 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 338,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "6f6cae63-4d4e-11ee-9412-c1be72fdac38",
+        "name": "25 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 339,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "6f6cae64-4d4e-11ee-9412-c1be72fdac38",
+        "name": "22 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 327,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "6f6cae65-4d4e-11ee-9412-c1be72fdac38",
+        "name": "64 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 341,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "6f6cae66-4d4e-11ee-9412-c1be72fdac38",
+        "name": "259 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 342,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "6f6cae67-4d4e-11ee-9412-c1be72fdac38",
+        "name": "28 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 343,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "59eb09be-4e17-11ee-9412-c1be72fdac38",
+        "name": "236 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 344,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "59eb09c8-4e17-11ee-9412-c1be72fdac38",
+        "name": "лаборатория ДВС",
+        "buildingUid": null,
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 437,
+        "parsed_type": "Неизвестно",
+        "building_name": "Неизвестно"
+    },
+    {
+        "uid": "76cdf9e0-507b-11ee-9412-c1be72fdac38",
+        "name": "Физкультурно-оздоровительный комплекс 2 (игровой зал)",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 100,
+        "site_id": 345,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "76cdf9e1-507b-11ee-9412-c1be72fdac38",
+        "name": "Физкультурно-оздоровительный комплекс 3 (тренажёрный зал)",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 100,
+        "site_id": 346,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "76cdf9e3-507b-11ee-9412-c1be72fdac38",
+        "name": "Малый зал",
+        "buildingUid": null,
+        "isVirtualRoom": false,
+        "capacity": 100,
+        "site_id": 438,
+        "parsed_type": "Неизвестно",
+        "building_name": "Неизвестно"
+    },
+    {
+        "uid": "1f981abb-520e-11ee-9412-c1be72fdac38",
+        "name": "Основной зал 2",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 50,
+        "site_id": 347,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "8dd5293b-6801-11ee-9412-c1be72fdac38",
+        "name": "326 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 13,
+        "site_id": 348,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "bc02838c-8772-11ee-9412-c1be72fdac38",
+        "name": "Актовый зал на Баранова",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 250,
+        "site_id": 349,
+        "parsed_type": "Актовый зал",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "72b2d8ed-a19b-11ee-9412-c1be72fdac38",
+        "name": "341 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 350,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "ad32f853-a3e8-11ee-9414-8f2056fca04f",
+        "name": "323 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 351,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "536b5c52-a56d-11ee-9414-8f2056fca04f",
+        "name": "325 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 352,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "8b69c962-a62e-11ee-9414-8f2056fca04f",
+        "name": "250 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 10,
+        "site_id": 353,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "c444f715-af95-11ee-9414-8f2056fca04f",
+        "name": "62 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 354,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "c444f719-af95-11ee-9414-8f2056fca04f",
+        "name": "248 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 355,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "c444f71a-af95-11ee-9414-8f2056fca04f",
+        "name": "406 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 356,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "c444f732-af95-11ee-9414-8f2056fca04f",
+        "name": "4 А5",
+        "buildingUid": "ac71c315-b90d-11ee-9414-8f2056fca04f",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 357,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №5 БГАРФ"
+    },
+    {
+        "uid": "04f95c02-ba99-11ee-9414-8f2056fca04f",
+        "name": "306 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 358,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "f8336285-bb69-11ee-9414-8f2056fca04f",
+        "name": "404 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 359,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "f8336286-bb69-11ee-9414-8f2056fca04f",
+        "name": "341а А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 360,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "f8336287-bb69-11ee-9414-8f2056fca04f",
+        "name": "335 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 361,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "f8336288-bb69-11ee-9414-8f2056fca04f",
+        "name": "323 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 362,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "f8336289-bb69-11ee-9414-8f2056fca04f",
+        "name": "329 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 363,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "0ff3ffae-c684-11ee-9414-8f2056fca04f",
+        "name": "321 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 364,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "0ff3ffaf-c684-11ee-9414-8f2056fca04f",
+        "name": "320 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 365,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "0ff3ffb1-c684-11ee-9414-8f2056fca04f",
+        "name": "239 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 366,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "9de8758c-cfc6-11ee-9414-8f2056fca04f",
+        "name": "117а А",
+        "buildingUid": null,
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 436,
+        "parsed_type": "Неизвестно",
+        "building_name": "Неизвестно"
+    },
+    {
+        "uid": "00a881ae-db13-11ee-9415-8f2056fca04f",
+        "name": "37 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 367,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "fea3e2b4-c81a-11e9-a51a-b42e9940e247",
+        "name": "13 Б",
+        "buildingUid": "74442a48-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 12,
+        "site_id": 368,
+        "parsed_type": "Лаборатория",
+        "building_name": "Учебный корпус №1 (ул. проф.Баранова)"
+    },
+    {
+        "uid": "9c8f2ec2-d393-11e9-a524-b42e9940e247",
+        "name": "Зал лечебной физкультуры",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 369,
+        "parsed_type": "Спортивный зал",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "42205133-e697-11e9-a52b-b42e9940e247",
+        "name": "003",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 17,
+        "site_id": 370,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "572a424f-09d0-11ea-a53a-b42e9940e247",
+        "name": "207 М",
+        "buildingUid": "74442a49-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 371,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2: (Малый переулок)"
+    },
+    {
+        "uid": "5a9c223f-11c3-11ea-a53e-b42e9940e247",
+        "name": "014",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 372,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "78e922c6-e834-11ee-af10-4c526250df5b",
+        "name": "304 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 374,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "3c712631-e835-11ee-af10-4c526250df5b",
+        "name": "316 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 375,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "8a313170-04e2-11ef-af1d-4c526250df5c",
+        "name": "327 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 376,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "66ded242-04f4-11ef-af1d-4c526250df5c",
+        "name": "45 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 377,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "551c9bca-0500-11ef-af1d-4c526250df5c",
+        "name": "346 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 378,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "0b099e03-094b-11ef-af1d-4c526250df5c",
+        "name": "480",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 379,
+        "parsed_type": "Аудитория",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "26917d7f-099d-11ef-af1d-4c526250df5c",
+        "name": "256 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 380,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "823c79eb-099d-11ef-af1d-4c526250df5c",
+        "name": "254 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 381,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "3efee859-1903-11ef-af1e-4c526250df5b",
+        "name": "410 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 383,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "36774d71-1c97-11ef-af1e-4c526250df5b",
+        "name": "319 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 384,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "d87a5447-1c9c-11ef-af1e-4c526250df5b",
+        "name": "410 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 385,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "a7855382-240c-11ef-af1e-4c526250df5b",
+        "name": "302 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 386,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "e9d8165d-5324-11ef-af22-4c526250df5b",
+        "name": "348 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 387,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "896ef06a-535c-11ef-af22-4c526250df5b",
+        "name": "106 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 388,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "ee865733-5362-11ef-af22-4c526250df5b",
+        "name": "308 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 389,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "39666d2e-540d-11ef-af22-4c526250df5b",
+        "name": "261/2",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 390,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "4354661f-540d-11ef-af22-4c526250df5b",
+        "name": "301 Г",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 391,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "f7356409-5a36-11ef-af26-4c526250df5b",
+        "name": "240",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 15,
+        "site_id": 392,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "3041e129-6124-11ef-af26-4c526250df5b",
+        "name": "204 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 393,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "4af21fdc-6124-11ef-af26-4c526250df5b",
+        "name": "203 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 22,
+        "site_id": 394,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "f13d95e9-644a-11ef-af26-4c526250df5b",
+        "name": "207 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 395,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "8066ec58-65e8-11ef-af29-4c526250df5c",
+        "name": "130 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 60,
+        "site_id": 396,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "a7eb98f3-65e8-11ef-af29-4c526250df5c",
+        "name": "432 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 397,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "d775285c-65e8-11ef-af29-4c526250df5c",
+        "name": "434 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 40,
+        "site_id": 399,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "154ac9dc-66d8-11ef-af2a-4c526250df5c",
+        "name": "257 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 400,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "e2b6bb35-7423-11ef-af2c-4c526250df5b",
+        "name": "007",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 18,
+        "site_id": 401,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "4c7ddeff-774d-11ef-af2c-4c526250df5b",
+        "name": "439 А (ВМП)",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 30,
+        "site_id": 402,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "95dda3c3-8d3b-11ef-af2c-4c526250df5b",
+        "name": "417 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 24,
+        "site_id": 403,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "893a1bbf-a282-11ef-af2f-4c526250df5c",
+        "name": "306 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 25,
+        "site_id": 404,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "44e29e71-aafc-11ef-af30-4c526250df5c",
+        "name": "05 К",
+        "buildingUid": "74442a4a-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 405,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №3: ул. Калязинская"
+    },
+    {
+        "uid": "70129563-af4d-11ef-af30-4c526250df5c",
+        "name": "338 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 406,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "48d3282a-d109-11ef-af30-4c526250df5c",
+        "name": "227 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 407,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "5636b1a4-d111-11ef-af30-4c526250df5c",
+        "name": "104 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 408,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "81cb8d5d-d273-11ef-af30-4c526250df5c",
+        "name": "429",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 10,
+        "site_id": 409,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "9f850afb-d3e1-11ef-af30-4c526250df5c",
+        "name": "329",
+        "buildingUid": "74442a46-5c3d-11e9-80d9-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 42,
+        "site_id": 410,
+        "parsed_type": "Неизвестно",
+        "building_name": "Главный учебный корпус"
+    },
+    {
+        "uid": "c97d7f63-e527-11ef-af31-4c526250df5c",
+        "name": "327",
+        "buildingUid": null,
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 413,
+        "parsed_type": "Компьютерный класс",
+        "building_name": "Неизвестно"
+    },
+    {
+        "uid": "a8107125-fa79-11ef-af32-4c526250df5b",
+        "name": "324",
+        "buildingUid": null,
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 416,
+        "parsed_type": "Лаборатория",
+        "building_name": "Неизвестно"
+    },
+    {
+        "uid": "456f41d7-fa82-11ef-af32-4c526250df5b",
+        "name": "322",
+        "buildingUid": null,
+        "isVirtualRoom": false,
+        "capacity": 20,
+        "site_id": 415,
+        "parsed_type": "Лаборатория",
+        "building_name": "Неизвестно"
+    },
+    {
+        "uid": "a73fecf1-2a73-11f0-af33-4c526250df5b",
+        "name": "408 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 429,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    },
+    {
+        "uid": "e95a0202-2d90-11f0-af33-4c526250df5b",
+        "name": "105 А2",
+        "buildingUid": "06de6a5b-e070-11ed-940d-8543c8917105",
+        "isVirtualRoom": false,
+        "capacity": 0,
+        "site_id": 431,
+        "parsed_type": "Неизвестно",
+        "building_name": "Учебный корпус №2 БГАРФ"
+    },
+    {
+        "uid": "1bb8a9d0-355c-11f0-af34-4c526250df5c",
+        "name": "29 А",
+        "buildingUid": "41082d62-a3aa-11e9-80db-14dae9fa298c",
+        "isVirtualRoom": false,
+        "capacity": 16,
+        "site_id": 421,
+        "parsed_type": "Аудитория",
+        "building_name": "Учебный корпус №1 БГАРФ"
+    }
+]

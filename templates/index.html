@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="ru">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Поиск аудитории</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body { background-color: #f8f9fa; }
+        .card-custom { border: none; box-shadow: 0 2px 8px rgba(0,0,0,0.05); }
+        
+        .pair-checkbox { display: none; }
+        .pair-label {
+            cursor: pointer; width: 32px; height: 32px; border: 1px solid #ced4da;
+            border-radius: 4px; display: flex; align-items: center; justify-content: center;
+            font-weight: bold; color: #495057; user-select: none; transition: all 0.2s;
+        }
+        .pair-checkbox:checked + .pair-label {
+            background-color: #0d6efd; color: white; border-color: #0d6efd;
+        }
+
+        .status-sq {
+            height: 25px; min-width: 45px; padding: 0 6px; border-radius: 4px; display: inline-flex;
+            align-items: center; justify-content: center; font-size: 14px;
+            margin-right: 5px; color: white; font-weight: bold;
+        }
+        .sq-free { background-color: #198754; }
+        .sq-busy { background-color: #dc3545; }
+
+        .fav-star { font-size: 1.5rem; cursor: pointer; color: #dee2e6; transition: color 0.2s; }
+        .fav-star.active { color: #ffc107; }
+        
+        .result-row { border-left: 4px solid transparent; }
+        .result-row.full-match { border-left-color: #198754; background-color: #f8fff9; }
+        .result-row.part-match { border-left-color: #ffc107; }
+        
+        .fav-comment { font-size: 0.8rem; color: #6c757d; font-style: italic; }
+    </style>
+</head>
+<body>
+    <div class="container py-4">
+        <div class="row justify-content-center">
+            <div class="col-lg-9">
+                <div class="card card-custom p-4 mb-4">
+                    <h4 class="mb-3">Поиск аудитории</h4>
+                    
+                    <div class="row g-3">
+                        <div class="col-md-4">
+                            <label class="form-label small text-muted">Дата</label>
+                            <input type="date" id="dateInput" class="form-control">
+                        </div>
+
+                        <div class="col-md-8">
+                            <label class="form-label small text-muted">Пары</label>
+                            <div class="d-flex gap-1 flex-wrap">
+                                {% for i in range(1, 9) %}
+                                <div>
+                                    <input type="checkbox" class="pair-checkbox" id="p{{i}}" value="{{i}}">
+                                    <label class="pair-label" for="p{{i}}">{{i}}</label>
+                                </div>
+                                {% endfor %}
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <label class="form-label small text-muted">Корпус</label>
+                            <select id="buildingSelect" class="form-select">
+                                <option value="">Любой корпус</option>
+                                {% for b in buildings %}
+                                <option value="{{ b.uid }}">{{ b.name }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <div class="col-md-4">
+                            <label class="form-label small text-muted">Вместимость</label>
+                            <input type="text" id="capacityInput" class="form-control" list="capacityList" placeholder="Мин. мест">
+                            <datalist id="capacityList">
+                                {% for c in capacities %}
+                                <option value="{{ c }}">
+                                {% endfor %}
+                            </datalist>
+                        </div>
+
+                        <div class="col-md-4">
+                            <label class="form-label small text-muted">Тип</label>
+                            <select id="typeSelect" class="form-select">
+                                <option value="">Любой</option>
+                                {% for t in types %}
+                                <option value="{{ t }}">{{ t }}</option>
+                                {% endfor %}
+                            </select>
+                        </div>
+
+                        <div class="col-12 mt-4">
+                            <button class="btn btn-primary w-100 fw-bold" onclick="runSearch()" id="searchBtn">Найти</button>
+                        </div>
+                    </div>
+                    <div id="log" class="mt-2 small text-muted"></div>
+                </div>
+
+                <div id="resultsArea"></div>
+            </div>
+        </div>
+    </div>
+
+    <script>
+        document.getElementById('dateInput').valueAsDate = new Date();
+
+        function getFavorites() {
+            return JSON.parse(localStorage.getItem('favRooms') || '{}');
+        }
+
+        function toggleFavorite(name, btn) {
+            const favs = getFavorites();
+            if (favs[name]) {
+                delete favs[name];
+                btn.classList.remove('active');
+            } else {
+                const comment = prompt("Комментарий (почему эта аудитория?):", "");
+                if (comment === null) return; 
+                favs[name] = comment || "Без комментария";
+                btn.classList.add('active');
+            }
+            localStorage.setItem('favRooms', JSON.stringify(favs));
+            
+            const commentDiv = document.getElementById(`comment-${name}`);
+            if(commentDiv) commentDiv.textContent = favs[name] || '';
+        }
+
+        async function runSearch() {
+            const date = document.getElementById('dateInput').value;
+            const pairs = Array.from(document.querySelectorAll('.pair-checkbox:checked')).map(cb => cb.value);
+            
+            if (!date) {
+                alert("Пожалуйста, введите корректную дату!");
+                return;
+            }
+
+            if (pairs.length === 0) {
+                alert("Выберите хотя бы одну пару!");
+                return;
+            }
+
+            const params = new URLSearchParams({
+                building: document.getElementById('buildingSelect').value,
+                capacity: document.getElementById('capacityInput').value || 0,
+                type: document.getElementById('typeSelect').value
+            });
+
+            const btn = document.getElementById('searchBtn');
+            const log = document.getElementById('log');
+            const area = document.getElementById('resultsArea');
+            
+            area.innerHTML = '';
+            btn.disabled = true;
+            log.textContent = 'Поиск в базе...';
+
+            try {
+                const res = await fetch(`/api/candidates?${params}`);
+                const candidates = await res.json();
+
+                if (candidates.length === 0) {
+                    log.textContent = 'Нет подходящих аудиторий.';
+                    btn.disabled = false;
+                    return;
+                }
+
+                const favs = getFavorites();
+                candidates.sort((a, b) => {
+                    const aFav = !!favs[a.name];
+                    const bFav = !!favs[b.name];
+                    return bFav - aFav;
+                });
+
+                log.textContent = `Найдено ${candidates.length}. Проверка...`;
+
+                let ignoreUnfav = false;
+                let checkedCount = 0;
+		let renderedRoomsCount = 0; 
+                
+                for (const room of candidates) {
+                    const isFav = !!favs[room.name];
+
+                    //пропуск обычных при идеальной избранной
+                    if (!isFav && ignoreUnfav) break;
+                    
+                    if (!isFav && checkedCount >= 10) break;
+                    if (!room.site_id) continue;
+
+                    const statusUrl = `/api/check_status?id=${room.site_id}&date=${date}&pairs=${pairs.join(',')}`;
+                    const statusRes = await fetch(statusUrl);
+                    const status = await statusRes.json();
+
+                    if (status.error) continue;
+
+                    if (status.free_count > 0) {
+                        renderCard(room, status, pairs, favs[room.name]);
+			renderedRoomsCount++; 
+                    }
+
+                    if (isFav && status.is_fully_free) {
+                        ignoreUnfav = true;
+                        log.textContent = 'Найдена полностью свободная избранная. Допроверяем остальные избранные...';
+                    }
+
+                    if (!isFav) checkedCount++;
+                    if (!ignoreUnfav) log.textContent = `Проверено ${checkedCount}...`;
+                }
+
+                log.textContent = 'Поиск завершен.';
+		
+                if (renderedRoomsCount === 0) {
+                    area.innerHTML = `
+                        <div class="alert alert-warning text-center mt-3" style="border-radius: 8px;">
+                            <strong>Аудитории заняты. Попробуйте изменить критерии.</strong><br>
+                        </div>
+                    `;
+                }
+
+            } catch (e) {
+                log.textContent = 'Ошибка: ' + e.message;
+            } finally {
+                btn.disabled = false;
+            }
+        }
+
+        function renderCard(room, status, reqPairs, comment) {
+            const area = document.getElementById('resultsArea');
+            const isFav = !!comment;
+            const rowClass = status.is_fully_free ? 'full-match' : 'part-match';
+
+            let squaresHtml = '';
+            reqPairs.forEach(p => {
+                const isBusy = status.busy_map[p];
+                const cls = isBusy ? 'sq-busy' : 'sq-free';
+                const icon = isBusy ? '✖' : '✔';
+                squaresHtml += `<div class="status-sq ${cls}" title="Пара ${p}">${p}: ${icon}</div>`;
+            });
+
+            const html = `
+                <div class="card card-custom p-3 mb-3 result-row ${rowClass}">
+                    <div class="d-flex justify-content-between align-items-start gap-2">
+                        <div style="min-width: 0;">
+                            <div class="d-flex flex-wrap align-items-center gap-2">
+                                <h5 class="mb-0">${room.name}</h5>
+                                <span class="badge bg-light text-dark border text-wrap text-start">${room.parsed_type}</span>
+                            </div>
+                            <div class="text-muted small mt-1">
+                                ${room.building_name} • ${room.capacity} мест
+                            </div>
+                            <div class="fav-comment mt-1" id="comment-${room.name}">${comment || ''}</div>
+                            <div class="mt-2">
+                                ${squaresHtml}
+                            </div>
+                        </div>
+                        <div class="flex-shrink-0">
+                            <div class="fav-star ${isFav ? 'active' : ''}" onclick="toggleFavorite('${room.name}', this)">
+                                ★
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            `;
+            area.insertAdjacentHTML('beforeend', html);
+        }
+    </script>
+</body>
+</html>
